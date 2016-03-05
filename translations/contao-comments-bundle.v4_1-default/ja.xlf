@@ -61,7 +61,7 @@
 View: %s
 Edit: %s
 </source>
-        <target>%sさんがウェブサイトで新しいコメントを作成しました。
+      <target>%sさんがウェブサイトで新しいコメントを作成しました。
 
 ---
 
@@ -75,23 +75,23 @@ Edit: %s
       </trans-unit>
       <trans-unit id="MSC.com_moderated">
         <source>This comment has to be published in the back end before it will appear on the website!</source>
-        <target>このコメントはウェブサイトで表示する前にバックエンドで公開しなければなりません。</target>
+      <target>このコメントはウェブサイトで表示する前にバックエンドで公開しなければなりません。</target>
       </trans-unit>
       <trans-unit id="MSC.com_confirm">
         <source>Your comment has been added and is now pending for approval.</source>
-        <target>コメントを追加しました、現在は承認を待っている状態です。</target>
+      <target>コメントを追加しました、現在は承認を待っている状態です。</target>
       </trans-unit>
       <trans-unit id="MSC.com_optInConfirm">
         <source>Your subscription has been activated</source>
-        <target>登録を有効にしました。</target>
+      <target>登録を有効にしました。</target>
       </trans-unit>
       <trans-unit id="MSC.com_optInCancel">
         <source>Your subscription has been cancelled</source>
-        <target>登録を取り消しました。</target>
+      <target>登録を取り消しました。</target>
       </trans-unit>
       <trans-unit id="MSC.com_optInSubject">
         <source>Your subscription on %s</source>
-        <target>%sの購読</target>
+      <target>%sの購読</target>
       </trans-unit>
       <trans-unit id="MSC.com_optInMessage">
         <source>Hello %s,
@@ -105,7 +105,7 @@ please confirm that you want to be notified of new comments by e-mail on this pa
 Confirm: %s
 Cancel: %s
 </source>
-        <target>こんにちは %sさん、
+      <target>こんにちは %sさん、
 
 このページの新しいコメントを電子メールで通知を受けるかどうか確認してください:
 
@@ -119,7 +119,7 @@ Cancel: %s
       </trans-unit>
       <trans-unit id="MSC.com_notifySubject">
         <source>A new comment has been added on %s</source>
-        <target>%sで新しいコメントの追加</target>
+      <target>%sで新しいコメントの追加</target>
       </trans-unit>
       <trans-unit id="MSC.com_notifyMessage">
         <source>Hello %s,
@@ -133,7 +133,7 @@ a new comment has been added on a page you have subscribed to:
 To cancel your subscription, please click here:
 %s
 </source>
-        <target>こんにちは、%sさん。
+      <target>こんにちは、%sさん。
 
 登録しているページに新しいコメントの追加がありました:
 
