@@ -1,31 +1,6 @@
 [main]
 host = https://www.transifex.com
 
-[contao-comments-bundle.v4_3-default]
-file_filter = translations/contao-comments-bundle.v4_3-default/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[contao-comments-bundle.v4_3-modules]
-file_filter = translations/contao-comments-bundle.v4_3-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[contao-comments-bundle.v4_3-tl_comments]
-file_filter = translations/contao-comments-bundle.v4_3-tl_comments/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[contao-comments-bundle.v4_3-tl_content]
-file_filter = translations/contao-comments-bundle.v4_3-tl_content/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[contao-comments-bundle.v4_3-tl_module]
-file_filter = translations/contao-comments-bundle.v4_3-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
-
 [contao-comments-bundle.v4_4-default]
 file_filter = translations/contao-comments-bundle.v4_4-default/<lang>.xlf
 source_lang = en
@@ -48,6 +23,31 @@ type = XLIFF
 
 [contao-comments-bundle.v4_4-tl_module]
 file_filter = translations/contao-comments-bundle.v4_4-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-comments-bundle.v4_5-default]
+file_filter = translations/contao-comments-bundle.v4_5-default/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-comments-bundle.v4_5-modules]
+file_filter = translations/contao-comments-bundle.v4_5-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-comments-bundle.v4_5-tl_comments]
+file_filter = translations/contao-comments-bundle.v4_5-tl_comments/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-comments-bundle.v4_5-tl_content]
+file_filter = translations/contao-comments-bundle.v4_5-tl_content/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-comments-bundle.v4_5-tl_module]
+file_filter = translations/contao-comments-bundle.v4_5-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
