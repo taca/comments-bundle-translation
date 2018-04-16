@@ -51,3 +51,28 @@ file_filter = translations/contao-comments-bundle.v4_5-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
+[contao-comments-bundle.v4_6-default]
+file_filter = translations/contao-comments-bundle.v4_6-default/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-comments-bundle.v4_6-modules]
+file_filter = translations/contao-comments-bundle.v4_6-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-comments-bundle.v4_6-tl_comments]
+file_filter = translations/contao-comments-bundle.v4_6-tl_comments/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-comments-bundle.v4_6-tl_content]
+file_filter = translations/contao-comments-bundle.v4_6-tl_content/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[contao-comments-bundle.v4_6-tl_module]
+file_filter = translations/contao-comments-bundle.v4_6-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
+
