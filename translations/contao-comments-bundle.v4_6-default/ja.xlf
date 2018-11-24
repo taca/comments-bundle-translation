@@ -56,6 +56,8 @@
       <trans-unit id="MSC.com_message">
         <source>%s has created a new comment on your website:
 
+---
+
 %s
 
 ---
@@ -64,23 +66,23 @@ Click here to view the comment:
 
 %s
 
-
 Click here to edit or answer the comment:
 
 %s
 </source>
         <target>%sさんがウェブサイトで新しいコメントを作成しました:
 
+---
+
 %s
 
 ---
 
-クリックしてコメントを表示:
+コメントを表示:
 
 %s
 
-
-クリックしてコメントを編集または返信:
+コメントを編集または返信:
 
 %s
 </target>
@@ -148,6 +150,8 @@ You can cancel your subscription at any time by clicking here:
 
 a new comment has been added on a page you have subscribed to:
 
+---
+
 %s
 
 ---
@@ -156,15 +160,17 @@ Click here to cancel your subscription:
 
 %s
 </source>
-        <target>こんにちは、%sさん。
+        <target>こんにちは、%sさん、
 
 登録しているページに新しいコメントが追加されました:
+
+---
 
 %s
 
 ---
 
-次をクイックすると登録を取り止めます:
+登録を取り消すには、次をクリックしてください:
 
 %s
 </target>
@@ -178,6 +184,8 @@ Click here to cancel your subscription:
 
 a new reply to a comment has been added on a page you have subscribed to:
 
+---
+
 %s
 
 ---
@@ -186,15 +194,17 @@ Click here to cancel your subscription:
 
 %s
 </source>
-        <target>こんにちは、%sさん。
+        <target>こんにちは、%sさん、
 
 登録しているページに新しい返信が追加されました:
+
+---
 
 %s
 
 ---
 
-次をクイックすると登録を取り止めます:
+登録を取り消すには、次をクリックしてください:
 
 %s
 </target>
