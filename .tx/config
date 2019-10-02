@@ -26,31 +26,6 @@ file_filter = translations/comments-bundle.v4_4-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[comments-bundle.v4_7-default]
-file_filter = translations/comments-bundle.v4_7-default/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[comments-bundle.v4_7-modules]
-file_filter = translations/comments-bundle.v4_7-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[comments-bundle.v4_7-tl_comments]
-file_filter = translations/comments-bundle.v4_7-tl_comments/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[comments-bundle.v4_7-tl_content]
-file_filter = translations/comments-bundle.v4_7-tl_content/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[comments-bundle.v4_7-tl_module]
-file_filter = translations/comments-bundle.v4_7-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
-
 [comments-bundle.v4_8-default]
 file_filter = translations/comments-bundle.v4_8-default/<lang>.xlf
 source_lang = en
@@ -73,6 +48,31 @@ type = XLIFF
 
 [comments-bundle.v4_8-tl_module]
 file_filter = translations/comments-bundle.v4_8-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v4_9-default]
+file_filter = translations/comments-bundle.v4_9-default/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v4_9-modules]
+file_filter = translations/comments-bundle.v4_9-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v4_9-tl_comments]
+file_filter = translations/comments-bundle.v4_9-tl_comments/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v4_9-tl_content]
+file_filter = translations/comments-bundle.v4_9-tl_content/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v4_9-tl_module]
+file_filter = translations/comments-bundle.v4_9-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
