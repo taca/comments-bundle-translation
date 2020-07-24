@@ -51,3 +51,28 @@ file_filter = translations/comments-bundle.v4_9-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
+[comments-bundle.v4_10-default]
+file_filter = translations/comments-bundle.v4_10-default/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v4_10-modules]
+file_filter = translations/comments-bundle.v4_10-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v4_10-tl_comments]
+file_filter = translations/comments-bundle.v4_10-tl_comments/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v4_10-tl_content]
+file_filter = translations/comments-bundle.v4_10-tl_content/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v4_10-tl_module]
+file_filter = translations/comments-bundle.v4_10-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
+
