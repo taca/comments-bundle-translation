@@ -26,31 +26,6 @@ file_filter = translations/comments-bundle.v4_9-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[comments-bundle.v4_11-default]
-file_filter = translations/comments-bundle.v4_11-default/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[comments-bundle.v4_11-modules]
-file_filter = translations/comments-bundle.v4_11-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[comments-bundle.v4_11-tl_comments]
-file_filter = translations/comments-bundle.v4_11-tl_comments/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[comments-bundle.v4_11-tl_content]
-file_filter = translations/comments-bundle.v4_11-tl_content/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[comments-bundle.v4_11-tl_module]
-file_filter = translations/comments-bundle.v4_11-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
-
 [comments-bundle.v4_12-default]
 file_filter = translations/comments-bundle.v4_12-default/<lang>.xlf
 source_lang = en
