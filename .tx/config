@@ -101,3 +101,27 @@ file_filter = translations/comments-bundle.v4_12-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
 
+[comments-bundle.v4_13-default]
+file_filter = translations/comments-bundle.v4_13-default/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v4_13-modules]
+file_filter = translations/comments-bundle.v4_13-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v4_13-tl_comments]
+file_filter = translations/comments-bundle.v4_13-tl_comments/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v4_13-tl_content]
+file_filter = translations/comments-bundle.v4_13-tl_content/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v4_13-tl_module]
+file_filter = translations/comments-bundle.v4_13-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
