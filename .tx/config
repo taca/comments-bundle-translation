@@ -50,3 +50,28 @@ type = XLIFF
 file_filter = translations/comments-bundle.v4_13-tl_module/<lang>.xlf
 source_lang = en
 type = XLIFF
+
+[comments-bundle.v5_0-default]
+file_filter = translations/comments-bundle.v5_0-default/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v5_0-modules]
+file_filter = translations/comments-bundle.v5_0-modules/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v5_0-tl_comments]
+file_filter = translations/comments-bundle.v5_0-tl_comments/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v5_0-tl_content]
+file_filter = translations/comments-bundle.v5_0-tl_content/<lang>.xlf
+source_lang = en
+type = XLIFF
+
+[comments-bundle.v5_0-tl_module]
+file_filter = translations/comments-bundle.v5_0-tl_module/<lang>.xlf
+source_lang = en
+type = XLIFF
